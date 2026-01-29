@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**shlokgupta8624/shlokgupta8624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Shlok Gupta!
 
-Here are some ideas to get you started:
+### 🎓 About Me
+- 🏫 Class 10 Student at **Kachhwa Christian School**.
+- 🤖 Passionate about **Data Science** and **Machine Learning**.
+- 💡 Turning complex data into meaningful insights using Python.
+- 📚 Currently exploring deep documentation to master the logic of AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Learning Journey
+- **Languages:** Python (Intermediate), JavaScript (Basics)
+- **Data Science:** NumPy (Mastering), Pandas (In-Progress)
+- **Tools:** VS Code, Google Colab, GitHub
+
+### 🎯 2026 Goals
+- [ ] Complete the Data Science Foundation (NumPy, Pandas, Matplotlib).
+- [ ] Build a predictive Machine Learning model using Scikit-Learn.
+- [ ] Achieve 90+ in IT for Class 10 Board Exams.
+
+### 📈 GitHub Stats
+![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlokgupta8624&show_icons=true&theme=radical)
+
+### 📫 Connect with me
+- 📍 Located in **Uttar Pradesh, India**.
+- 💬 Ask me about: **Python, Data Analysis, and Chess**.
