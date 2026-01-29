@@ -16,7 +16,7 @@
 ### 🎯 2026 Goals
 - [ ] Complete the Data Science Foundation (NumPy, Pandas, Matplotlib).
 - [ ] Build a predictive Machine Learning model using Scikit-Learn.
-- [ ] Achieve 90+ in IT for Class 10 Board Exams.
+
 
 ### 📈 GitHub Stats
 ![Shlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlokgupta8624&show_icons=true&theme=radical)
